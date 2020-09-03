@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://gabegreenfield.ghost.io/",
+    "apiUrl": "https://gabegreenfield.ghost.io",
     "contentApiKey": "f8eac6b18e536f9cc1f410b6cb"
   },
   "production": {
-    "apiUrl": "https://gabegreenfield.ghost.io/",
+    "apiUrl": "https://gabegreenfield.ghost.io",
     "contentApiKey": "f8eac6b18e536f9cc1f410b6cb"
   }
 }
